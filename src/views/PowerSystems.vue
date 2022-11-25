@@ -8,3 +8,13 @@
         <P>Power Systems can be found through the undergraduate courses of ECE 3500, ECE 3501, ECE 3503. All offered by Gregory Noestcher.</P>
     </div>
 </template>
+<!-- eslint-disable prettier/prettier -->
+
+<style>
+h1{
+    color: #1f2327;
+}
+.text{
+    color: #34383b;
+}
+</style>
