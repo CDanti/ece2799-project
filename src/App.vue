@@ -27,6 +27,7 @@
   border-color: blue;
   background-color: #ac2b37;
   color: #34383b;
+  padding-left: 1.5em;
 }
 .tabs-container {
   display: grid;
