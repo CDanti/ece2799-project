@@ -17,7 +17,7 @@
   <p class="homeText">
     We found through our market research that even current WPI ECE Undergraduates did not know most of the subfields of ECE. We saw this as a perfect opportunity to not only educate but entertain and capture the attention of those who view our product.
   </p>
-  <p class="homeText">D
+  <p class="homeText">
     This website serves as an avenue for those who saw our display in Atwater Kent and wanted to learn more about the subfields of ECE listed above. All you have to do is select a subfield and the information relevant to each field will show.
   </p>
 </template>

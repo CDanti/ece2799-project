@@ -5,7 +5,20 @@
         <h1>Power Systems</h1>
     </div>
     <div class="text">
-        <P>Power Systems can be found through the undergraduate courses of ECE 3500, ECE 3501, ECE 3503. All offered by Gregory Noestcher.</P>
+        <P>Power systems engineering is a subfield of ECE that focuses on the generatino, transmittion, storage, and use of electrical power. 
+        Other topics that may be explored are the economic, environmental, and regulation around power system devices. These power devices can 
+        be powered through renewable and/or nonrenewable resources.</P>
+        <p class="subtitleTag">Courses Include:</p>
+        <div class="courses">
+            <p>ECE 3500 - Introduction to Contemporary Electrical Power Systems</p>
+            <p>ECE 3501 - Electrical Energy Conversion</p>
+            <p>ECE 3503 - Power Electronics</p>
+            <p>ES 3001 - Introduction to Thermodynamics</p>
+            <p>ES 3011 - Control Engineering I</p>
+            <p>ME 1800 - Manufacturing Science, Prototyping, and Computer-Controlled Machining</p>
+            <p>OIE 2850 Engineering Economics</p>
+            <P></P>
+        </div>
     </div>
 </template>
 <!-- eslint-disable prettier/prettier -->
@@ -16,5 +29,20 @@ h1{
 }
 .text{
     color: #34383b;
+}
+.subtitleTag{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+courses .div{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 0px;
+}
+
+.courses p{
+    gap: 0px;
+    margin-bottom: 0px;
 }
 </style>
