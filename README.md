@@ -1,3 +1,5 @@
+permalink: /index.html
+
 # ece2799-project
 
 ## Project setup
