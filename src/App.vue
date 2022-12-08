@@ -7,7 +7,7 @@
   <router-link to="/" class="backBtn">Back Button</router-link>
   <!-- <a class="backBtn" href="./">Back Button</a> should I put this in here or in App.vue?? -->
 </template>
-
+<!-- eslint-disable prettier/prettier -->
 <style>
 .backBtn {
   color: whitesmoke;
